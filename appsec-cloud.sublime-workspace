@@ -1,0 +1,369 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"forbidden_chr"
+			],
+			[
+				"remote_",
+				"remote_addr"
+			],
+			[
+				"remo",
+				"remote_user"
+			],
+			[
+				"Prin",
+				"print!(…)"
+			],
+			[
+				"as",
+				"as_bytes()"
+			],
+			[
+				"Ve",
+				"vec![…]"
+			],
+			[
+				"en",
+				"encode_utf8(…)"
+			],
+			[
+				"by",
+				"Bytes (use std::str::Bytes)"
+			],
+			[
+				"tr",
+				"trim()"
+			],
+			[
+				"in",
+				"input_string(…)"
+			],
+			[
+				"i",
+				"i8"
+			],
+			[
+				"ma",
+				"ifmain\tif __name__ == '__main__'"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 8273,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"run",
+				"Build With: Cargo - Run"
+			],
+			[
+				"proje",
+				"Terminal: Open in project folder"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"ter",
+				"Terminal: Open"
+			],
+			[
+				"them",
+				"gruvbox: Select Theme"
+			],
+			[
+				"the",
+				"gruvbox: Select Theme"
+			],
+			[
+				"cargo",
+				"Build With: Cargo"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			],
+			[
+				"package c",
+				"Preferences: Browse Packages"
+			],
+			[
+				"",
+				"Build With: Cargo - Bench"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"view.settings().get('font_face')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Sopa/Documents/Dev/appsec-cloud"
+	],
+	"file_history":
+	[
+		"/C/Users/Sopa/Documents/Dev/appseccloud/README.md",
+		"/C/Users/Sopa/Documents/Dev/appseccloud/example-fixed.py",
+		"/C/Users/Sopa/Documents/Dev/appseccloud/example.py",
+		"/C/Users/Sopa/Downloads/README.md",
+		"/C/Users/Sopa/Documents/Dev/appseccloud/python-example1/fixed-variant2.py",
+		"/C/Users/Sopa/Documents/Dev/appseccloud/python-example1/example.py",
+		"/C/Users/Sopa/Documents/Dev/appseccloud/golang-example/main.go",
+		"/C/Users/Sopa/Documents/Dev/appseccloud/golang-example/fixed.go",
+		"/C/Users/Sopa/.ssh/known_hosts",
+		"/C/Users/Sopa/Documents/Dev/id_rsa.pub",
+		"/C/Users/Sopa/Documents/Dev/id_rsa",
+		"/C/Users/Sopa/Documents/Dev/appseccloud/python-example1/fixed-variant1.py",
+		"/C/Users/Sopa/Documents/Dev/appseccloud/example2fixed.py",
+		"/C/Users/Sopa/Documents/Dev/appseccloud/example2.py",
+		"/C/Users/Sopa/Documents/Dev/appseccloud/main.go",
+		"/C/Users/Sopa/Documents/Dev/appseccloud/example1fixed.py",
+		"/C/Users/Sopa/Documents/Dev/appseccloud/example1fixed2.py",
+		"/C/Users/Sopa/Documents/Dev/Lib/site-packages/markupsafe/_speedups.pyi",
+		"/C/Users/Sopa/Documents/Dev/rust-process-manager/src/main.rs",
+		"/C/Users/Sopa/Documents/Dev/rust-process-manager/subl.sublime-project",
+		"/C/Users/Sopa/Documents/Dev/rsa/src/main.rs",
+		"/C/Users/Sopa/Downloads/wddm_timeout_patch.reg",
+		"/C/Users/Sopa/Downloads/test.go",
+		"/C/Users/Sopa/Documents/Dev/rsa/.gitignore",
+		"/C/Users/Sopa/Documents/Dev/pygost_0_15/pygost/test_gost3411_94.py",
+		"/C/Users/Sopa/Documents/Dev/pygost_0_15/pygost/gost28147.py",
+		"/C/Users/Sopa/Documents/Dev/pygost_0_15/pygost/main.py",
+		"/C/Users/Sopa/Documents/Dev/pygost_0_15/pygost/gost3411_94.py",
+		"/C/Users/Sopa/AppData/Local/fanal/fanal.db",
+		"/C/Users/Sopa/Documents/Dev/pygost_0_15/pygost/test_gost28147.py",
+		"/C/Users/Sopa/Documents/Dev/UI_testing/main.py",
+		"/C/Users/Sopa/Documents/Dev/rust-process-manager/src/processes.rs",
+		"/C/Users/Sopa/Documents/Dev/rust-process-manager/src/plot.rs",
+		"/C/Users/Sopa/Downloads/main.py",
+		"/C/Users/Sopa/Documents/Dev/Phys/main.py",
+		"/C/Users/Sopa/AppData/Local/Packages/Microsoft.WindowsTerminal_8wekyb3d8bbwe/LocalState/settings.json"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8273,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"lsp_uri": "file:///C:/Users/Sopa/Documents/Dev/appsec-cloud/README.md",
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0
+	},
+	"output.diagnostics":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 81.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "appsec-cloud.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				".gitignore"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 499.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Sopa\\Documents\\Dev\\rsa\\rsa.sublime-project"
+			]
+		],
+		"width": 378.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 198.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
