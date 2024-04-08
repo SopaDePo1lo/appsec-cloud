@@ -59,10 +59,407 @@
 			"file": "README.md",
 			"settings":
 			{
-				"buffer_size": 8273,
+				"buffer_size": 8801,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
-			}
+			},
+			"undo_stack":
+			[
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAAEAAAAAAAAAAgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAPQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					9,
+					1,
+					"left_delete",
+					null,
+					"AQAAADwAAAAAAAAAPAAAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAPQAAAAAAAAA9AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAALIAAAAAAAAAswAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAsgAAAAAAAACyAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAI4BAAAAAAAAjwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjgEAAAAAAACOAQAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					18,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAANgCAAAAAAAA2QIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA2AIAAAAAAADYAgAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					23,
+					6,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"BgAAAAYQAAAAAAAABhAAAAAAAAADAAAA4oSW/g8AAAAAAAD+DwAAAAAAAA8AAADRgNC40YHRg9C90LrQtSD7DwAAAAAAAPsPAAAAAAAABQAAANC90LAg6w8AAAAAAADrDwAAAAAAAB8AAADQv9GA0LXQtNGB0YLQsNCy0LvQtdC90L3QvtC80YMg6Q8AAAAAAADpDwAAAAAAAAIAAAAsIN8PAAAAAAAA3w8AAAAAAAAUAAAA0YDQtdC30YPQu9GM0YLQsNGC0YM",
+					"AQAAAAAAAAABAAAABxAAAAAAAAAHEAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"insert",
+					{
+						"characters": "следующему"
+					},
+					"CgAAAN8PAAAAAAAA4A8AAAAAAAAAAAAA4A8AAAAAAADhDwAAAAAAAAAAAADhDwAAAAAAAOIPAAAAAAAAAAAAAOIPAAAAAAAA4w8AAAAAAAAAAAAA4w8AAAAAAADkDwAAAAAAAAAAAADkDwAAAAAAAOUPAAAAAAAAAAAAAOUPAAAAAAAA5g8AAAAAAAAAAAAA5g8AAAAAAADnDwAAAAAAAAAAAADnDwAAAAAAAOgPAAAAAAAAAAAAAOgPAAAAAAAA6Q8AAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3w8AAAAAAADfDwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"insert",
+					{
+						"characters": " результату"
+					},
+					"CwAAAOkPAAAAAAAA6g8AAAAAAAAAAAAA6g8AAAAAAADrDwAAAAAAAAAAAADrDwAAAAAAAOwPAAAAAAAAAAAAAOwPAAAAAAAA7Q8AAAAAAAAAAAAA7Q8AAAAAAADuDwAAAAAAAAAAAADuDwAAAAAAAO8PAAAAAAAAAAAAAO8PAAAAAAAA8A8AAAAAAAAAAAAA8A8AAAAAAADxDwAAAAAAAAAAAADxDwAAAAAAAPIPAAAAAAAAAAAAAPIPAAAAAAAA8w8AAAAAAAAAAAAA8w8AAAAAAAD0DwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA6Q8AAAAAAADpDwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					27,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAPYPAAAAAAAA9w8AAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9g8AAAAAAAD2DwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					31,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAPYPAAAAAAAA9w8AAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9g8AAAAAAAD2DwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					32,
+					1,
+					"insert",
+					{
+						"characters": "!хъ"
+					},
+					"AwAAAPcPAAAAAAAA+A8AAAAAAAAAAAAA+A8AAAAAAAD5DwAAAAAAAAAAAAD5DwAAAAAAAPoPAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9w8AAAAAAAD3DwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					33,
+					2,
+					"left_delete",
+					null,
+					"AgAAAPkPAAAAAAAA+Q8AAAAAAAACAAAA0Yr4DwAAAAAAAPgPAAAAAAAAAgAAANGF",
+					"AQAAAAAAAAABAAAA+g8AAAAAAAD6DwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAPgPAAAAAAAA+Q8AAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA+A8AAAAAAAD4DwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					1,
+					"left_delete",
+					null,
+					"AQAAAPgPAAAAAAAA+A8AAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAA+Q8AAAAAAAD5DwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					44,
+					1,
+					"insert",
+					{
+						"characters": "хъ"
+					},
+					"AgAAAPgPAAAAAAAA+Q8AAAAAAAAAAAAA+Q8AAAAAAAD6DwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA+A8AAAAAAAD4DwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					45,
+					2,
+					"left_delete",
+					null,
+					"AgAAAPkPAAAAAAAA+Q8AAAAAAAACAAAA0Yr4DwAAAAAAAPgPAAAAAAAAAgAAANGF",
+					"AQAAAAAAAAABAAAA+g8AAAAAAAD6DwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					46,
+					1,
+					"insert_snippet",
+					{
+						"contents": "[$0]"
+					},
+					"AQAAAPgPAAAAAAAA+g8AAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA+A8AAAAAAAD4DwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					49,
+					1,
+					"insert",
+					{
+						"characters": "1"
+					},
+					"AQAAAPkPAAAAAAAA+g8AAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA+Q8AAAAAAAD5DwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					53,
+					1,
+					"left_delete",
+					null,
+					"AQAAAPkPAAAAAAAA+Q8AAAAAAAABAAAAMQ",
+					"AQAAAAAAAAABAAAA+g8AAAAAAAD6DwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					55,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAPoPAAAAAAAA/A8AAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA+g8AAAAAAAD6DwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					56,
+					1,
+					"paste",
+					null,
+					"AQAAAPsPAAAAAAAARhAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA+w8AAAAAAAD7DwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					64,
+					1,
+					"left_delete",
+					null,
+					"AQAAAPUPAAAAAAAA9Q8AAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAA9g8AAAAAAAD2DwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					65,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAPUPAAAAAAAA9g8AAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9Q8AAAAAAAD1DwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					70,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAFMUAAAAAAAAVBQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUxQAAAAAAABTFAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					79,
+					1,
+					"paste",
+					null,
+					"AQAAAFMUAAAAAAAAoxQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUxQAAAAAAABTFAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					84,
+					1,
+					"left_delete",
+					null,
+					"AQAAAJ0UAAAAAAAAnRQAAAAAAAABAAAAMQ",
+					"AQAAAAAAAAABAAAAnhQAAAAAAACeFAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					85,
+					1,
+					"insert",
+					{
+						"characters": "2"
+					},
+					"AQAAAJ0UAAAAAAAAnhQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAnRQAAAAAAACdFAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					90,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAB8XAAAAAAAAIBcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHxcAAAAAAAAfFwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					92,
+					1,
+					"paste",
+					null,
+					"AQAAAB8XAAAAAAAAbxcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHxcAAAAAAAAfFwAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					95,
+					1,
+					"left_delete",
+					null,
+					"AQAAAGkXAAAAAAAAaRcAAAAAAAABAAAAMQ",
+					"AQAAAAAAAAABAAAAahcAAAAAAABqFwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					96,
+					1,
+					"insert",
+					{
+						"characters": "3"
+					},
+					"AQAAAGkXAAAAAAAAahcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAaRcAAAAAAABpFwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					99,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAIAbAAAAAAAAgRsAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgBsAAAAAAACAGwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					101,
+					1,
+					"paste",
+					null,
+					"AQAAAIAbAAAAAAAA0BsAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgBsAAAAAAACAGwAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					105,
+					1,
+					"left_delete",
+					null,
+					"AQAAAMgbAAAAAAAAyBsAAAAAAAABAAAAMQ",
+					"AQAAAAAAAAABAAAAyRsAAAAAAADJGwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					106,
+					1,
+					"insert",
+					{
+						"characters": "2"
+					},
+					"AQAAAMgbAAAAAAAAyRsAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAyBsAAAAAAADIGwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					114,
+					1,
+					"paste",
+					null,
+					"AgAAAIQbAAAAAAAA9hsAAAAAAAAAAAAA9hsAAAAAAAD2GwAAAAAAAEsAAABodHRwczovL2dpdGh1Yi5jb20vU29wYURlUG8xbG8vYXBwc2VjLWNsb3VkL2Jsb2IvbWFpbi9weXRob24tZXhhbXBsZTIvMS5wbmc",
+					"AQAAAAAAAAABAAAAhBsAAAAAAADPGwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					117,
+					1,
+					"left_delete",
+					null,
+					"AQAAAPIbAAAAAAAA8hsAAAAAAAABAAAALg",
+					"AQAAAAAAAAABAAAA8xsAAAAAAADzGwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					123,
+					1,
+					"paste",
+					null,
+					"AQAAAL0gAAAAAAAAMyEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAvSAAAAAAAAC9IAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					125,
+					1,
+					"insert",
+					{
+						"characters": "/"
+					},
+					"AQAAAC8hAAAAAAAAMCEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALyEAAAAAAAAvIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					126,
+					1,
+					"left_delete",
+					null,
+					"AQAAAC8hAAAAAAAALyEAAAAAAAABAAAALw",
+					"AQAAAAAAAAABAAAAMCEAAAAAAAAwIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					127,
+					1,
+					"insert",
+					{
+						"characters": "."
+					},
+					"AQAAAC8hAAAAAAAAMCEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALyEAAAAAAAAvIQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					129,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAADQhAAAAAAAANSEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANCEAAAAAAAA0IQAAAAAAAAAAAAAAAPC/"
+				]
+			]
 		}
 	],
 	"build_system": "",
@@ -150,10 +547,10 @@
 	],
 	"file_history":
 	[
+		"/C/Users/Sopa/Downloads/README.md",
 		"/C/Users/Sopa/Documents/Dev/appseccloud/README.md",
 		"/C/Users/Sopa/Documents/Dev/appseccloud/example-fixed.py",
 		"/C/Users/Sopa/Documents/Dev/appseccloud/example.py",
-		"/C/Users/Sopa/Downloads/README.md",
 		"/C/Users/Sopa/Documents/Dev/appseccloud/python-example1/fixed-variant2.py",
 		"/C/Users/Sopa/Documents/Dev/appseccloud/python-example1/example.py",
 		"/C/Users/Sopa/Documents/Dev/appseccloud/golang-example/main.go",
@@ -231,15 +628,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 8273,
+						"buffer_size": 8801,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								8501,
+								8501
 							]
 						],
 						"settings":
@@ -250,13 +647,18 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 2142.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
 					"stack_multiselect": false,
 					"type": "text"
 				}
+			]
+		},
+		{
+			"sheets":
+			[
 			]
 		}
 	],
@@ -277,11 +679,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.5,
 			1.0
 		],
 		"rows":
